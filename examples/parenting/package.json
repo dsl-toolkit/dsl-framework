@@ -24,18 +24,17 @@
     "url": "git+https://github.com/vidaxl-com/cowlog.git"
   },
   "keywords": [
-    "curry",
-    "array",
-    "dsl-framework",
-    "cowlog",
-    "dsl"
+    "parent",
+    "object",
+    "dsl",
+    "tooling"
   ],
   "author": "Imre Toth",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vidaxl-com/cowlog/issues"
   },
-  "homepage": "https://github.com/vidaxl-com/dsl-framework/examples/array-dsl/README.md",
+  "homepage": "https://github.com/vidaxl-com/cowlog/tree/master/packages/dsl-framework/examples/parenting",
   "dependencies": {
     "array-dsl": "^1.6.15",
     "dsl-framework": "^1.6.15",
